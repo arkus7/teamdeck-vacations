@@ -1,0 +1,10 @@
+-s dir
+-t osxpkg
+--name teamdeck-vacations
+--license mit
+--version 0.1.0
+--architecture all
+--description "Displays list of vacations in your Teamdeck organization"
+--url "https://github.com/arkus7/teamdeck-vacations"
+--maintainer "Arkadiusz Żmudzin <arkadiusz.zmudzin@gmail.com>"
+target/release/teamdeck-vacations=
