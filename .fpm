@@ -7,4 +7,6 @@
 --description "Displays list of vacations in your Teamdeck organization"
 --url "https://github.com/arkus7/teamdeck-vacations"
 --maintainer "Arkadiusz Żmudzin <arkadiusz.zmudzin@gmail.com>"
-target/release/teamdeck-vacations=
+target/release/teamdeck-vacations="/Applications/Teamdeck Vacations.app/Contents/MacOS/teamdeck-vacations"
+dist/Info.plist="/Applications/Teamdeck Vacations.app/Contents/Info.plist"
+dist/AppIcon.icns="/Applications/Teamdeck Vacations.app/Contents/Resources/AppIcon.icns"
